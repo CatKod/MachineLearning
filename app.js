@@ -118,6 +118,22 @@
     return x === y;
   }
 
+  /* Cuộn tới phần tử nhưng chừa chiều cao header sticky để không bị che */
+  function scrollToEl(el, block) {
+    if (!el) return;
+    var headerH = document.querySelector(".topbar");
+    var offset = headerH ? headerH.getBoundingClientRect().height + 12 : 12;
+    var top = el.getBoundingClientRect().top + window.pageYOffset - offset;
+    if (block === "nearest") {
+      // chỉ cuộn nếu phần tử nằm ngoài vùng nhìn (sau header)
+      var minVisible = offset + 40;
+      var maxVisible = window.innerHeight - 40;
+      var r = el.getBoundingClientRect();
+      if (r.top >= minVisible && r.bottom <= maxVisible) return;
+    }
+    window.scrollTo({ top: Math.max(0, top), behavior: "smooth" });
+  }
+
   /* =========================================================
      Điều hướng panel / step
      ========================================================= */
@@ -343,7 +359,7 @@
         "Cần ôn lại lý thuyết ở phần trên.") +
       "</div>";
 
-    elResult.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    scrollToEl(elResult, "nearest");
   });
 
   /* Khối lý thuyết dùng chung (mọi câu đều hiện lý thuyết) */
@@ -531,7 +547,7 @@
 
     $("random-quiz").hidden = false;
     renderRandomStats();
-    $("random-quiz").scrollIntoView({ behavior: "smooth", block: "start" });
+    scrollToEl($("random-quiz"), "start");
   }
 
   function updateRandomProgress() {
@@ -617,7 +633,7 @@
       "</div>";
 
     renderRandomStats();
-    $("random-result").scrollIntoView({ behavior: "smooth", block: "nearest" });
+    scrollToEl($("random-result"), "nearest");
   });
 
   $("btn-start-random").addEventListener("click", startRandomRound);
