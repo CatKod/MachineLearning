@@ -359,7 +359,9 @@
         "Cần ôn lại lý thuyết ở phần trên.") +
       "</div>";
 
-    scrollToEl(elResult, "nearest");
+    // Cuộn tới câu hỏi đầu tiên để thấy feedback + lý thuyết ngay
+    var firstSec = elQuizForm.querySelector(".quiz-question");
+    scrollToEl(firstSec || elResult, "start");
   });
 
   /* Khối lý thuyết dùng chung (mọi câu đều hiện lý thuyết) */
@@ -633,7 +635,10 @@
       "</div>";
 
     renderRandomStats();
-    scrollToEl($("random-result"), "nearest");
+    // Cuộn tới câu hỏi đầu tiên (nơi hiện feedback + lý thuyết),
+    // kết quả tổng đã nằm ngay phía trên nên vẫn thấy.
+    var firstSec = $("random-questions").querySelector(".quiz-question");
+    scrollToEl(firstSec || $("random-result"), "start");
   });
 
   $("btn-start-random").addEventListener("click", startRandomRound);
