@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#2563eb">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Ôn tập ML">
+<meta name="description" content="Ôn tập trắc nghiệm Machine Learning — 174 câu, có lý thuyết đi kèm mỗi câu.">
+<title>Ôn tập Machine Learning</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">📘 Ôn tập Machine Learning</div>
+  <nav class="steps">
+    <button id="step-chapter" class="step active">1. Chương</button>
+    <button id="step-topic" class="step" disabled>2. Topic</button>
+    <button id="step-quiz" class="step" disabled>3. Làm bài</button>
+  </nav>
+</header>
+
+<main>
+  <!-- Chọn chế độ ôn -->
+  <section id="panel-modes" class="panel">
+    <h1>Ôn tập</h1>
+    <div class="mode-switch">
+      <button id="mode-random" class="mode-btn active" type="button">
+        🎲 Ôn ngẫu nhiên
+        <span class="mode-desc">Trộn toàn bộ 174 câu. Câu trả lời đúng sẽ bị loại vĩnh viễn, câu sai được đưa lại để ôn tiếp.</span>
+      </button>
+      <button id="mode-topic" class="mode-btn" type="button">
+        📚 Ôn theo chương / topic
+        <span class="mode-desc">Chọn từng chương và topic như bản gốc.</span>
+      </button>
+    </div>
+  </section>
+
+  <!-- Ôn ngẫu nhiên -->
+  <section id="panel-random" class="panel" hidden>
+    <div class="random-bar">
+      <div class="random-stats">
+        <div class="stat">
+          <span class="stat-num" id="rs-remaining">174</span>
+          <span class="stat-label">còn lại</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num" id="rs-mastered">0</span>
+          <span class="stat-label">đã thành thạo</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num" id="rs-round">1</span>
+          <span class="stat-label">lượt</span>
+        </div>
+      </div>
+      <div class="random-actions">
+        <label class="random-size">
+          Số câu mỗi lượt
+          <select id="random-size">
+            <option value="10">10</option>
+            <option value="20" selected>20</option>
+            <option value="30">30</option>
+            <option value="50">50</option>
+            <option value="0">Tất cả</option>
+          </select>
+        </label>
+        <button id="btn-start-random" class="btn primary" type="button">Bắt đầu lượt</button>
+        <button id="btn-reset-random" class="btn" type="button" title="Đưa tất cả câu về lại hàng đợi">Đặt lại toàn bộ</button>
+      </div>
+    </div>
+
+    <div id="random-queue" class="random-queue"></div>
+
+    <div id="random-quiz" class="random-quiz" hidden>
+      <h2 id="random-title"></h2>
+      <div id="random-progress" class="progress"></div>
+      <form id="random-form">
+        <div id="random-questions"></div>
+        <div class="actions">
+          <button type="submit" class="btn primary">Nộp bài</button>
+          <button type="button" class="btn" id="btn-random-next">Lượt tiếp theo</button>
+        </div>
+      </form>
+      <div id="random-result" class="result" hidden></div>
+    </div>
+  </section>
+
+  <!-- Ôn theo chương -->
+  <section id="panel-topiclist" class="panel" hidden>
+    <p id="overall-stat" class="overall-stat"></p>
+    <h2>Chọn chương</h2>
+    <div id="chapter-list" class="card-grid"></div>
+  </section>
+
+  <!-- Chọn topic -->
+  <section id="panel-topic" class="panel" hidden>
+    <button class="back" data-back="chapter">← Quay lại</button>
+    <h1 id="topic-chapter-title"></h1>
+    <div id="topic-chapter-summary" class="theory chapter-theory"></div>
+    <h2>Chọn topic</h2>
+    <div id="topic-list" class="card-grid"></div>
+  </section>
+
+  <!-- Làm bài -->
+  <section id="panel-quiz" class="panel" hidden>
+    <button class="back" data-back="topic">← Quay lại</button>
+    <h1 id="quiz-title"></h1>
+    <details class="theory" id="theory-box">
+      <summary>📖 Xem lý thuyết của phần này</summary>
+      <div id="theory-content"></div>
+    </details>
+
+    <div id="progress" class="progress"></div>
+    <form id="quiz-form">
+      <div id="questions"></div>
+      <div class="actions">
+        <button type="submit" class="btn primary">Nộp bài</button>
+        <button type="button" class="btn" id="btn-reset">Làm lại</button>
+      </div>
+    </form>
+    <div id="result" class="result" hidden></div>
+  </section>
+</main>
+
+<script src="data/quiz.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

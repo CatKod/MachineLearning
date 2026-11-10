@@ -1,0 +1,13 @@
+{
+  "name": "machine-learning-review-quiz",
+  "version": "1.0.0",
+  "description": "Web ôn tập trắc nghiệm Machine Learning — dữ liệu từ dbk.edu.vn/ML/exercises",
+  "private": true,
+  "scripts": {
+    "serve": "node server.js 8900",
+    "sync": "node scripts/sync-data.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

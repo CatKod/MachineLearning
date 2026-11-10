@@ -1,0 +1,1853 @@
+﻿[
+    {
+        "chapter_id":  "l2-data-preprocessing",
+        "topic_id":  1,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  1
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  2
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l2-data-preprocessing",
+        "topic_id":  2,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  3
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  4
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l2-data-preprocessing",
+        "topic_id":  3,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  5
+                        },
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  6
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l2-data-preprocessing",
+        "topic_id":  4,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  7
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  8
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l2-data-preprocessing",
+        "topic_id":  5,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  9
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  10
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l2-data-preprocessing",
+        "topic_id":  6,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  11
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  12
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l2-data-preprocessing",
+        "topic_id":  7,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  13
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  14
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l2-data-preprocessing",
+        "topic_id":  8,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  15
+                        },
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  16
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l2-data-preprocessing",
+        "topic_id":  9,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  17
+                        },
+                        {
+                            "answers":  [
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  18
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l2-data-preprocessing",
+        "topic_id":  10,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  19
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  20
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l2-data-preprocessing",
+        "topic_id":  11,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  21
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  22
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l2-data-preprocessing",
+        "topic_id":  12,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  23
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  24
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l2-data-preprocessing",
+        "topic_id":  13,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  25
+                        },
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  26
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l3-linear-regression",
+        "topic_id":  1,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  1
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  2
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l3-linear-regression",
+        "topic_id":  2,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  3
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  4
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l3-linear-regression",
+        "topic_id":  3,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  5
+                        },
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  6
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l3-linear-regression",
+        "topic_id":  4,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  7
+                        },
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  8
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l3-linear-regression",
+        "topic_id":  5,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  9
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  10
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l3-linear-regression",
+        "topic_id":  6,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  11
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  12
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l3-linear-regression",
+        "topic_id":  7,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  13
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  14
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l3-linear-regression",
+        "topic_id":  8,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  15
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  16
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l3-linear-regression",
+        "topic_id":  9,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  17
+                        },
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  18
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l3-linear-regression",
+        "topic_id":  10,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  19
+                        },
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  20
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l3-linear-regression",
+        "topic_id":  11,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  21
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  22
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l3-linear-regression",
+        "topic_id":  12,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  23
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  24
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l3-linear-regression",
+        "topic_id":  13,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  25
+                        },
+                        {
+                            "answers":  [
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  26
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  1,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  1
+                        },
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  2
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  2,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  3
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  4
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  3,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  5
+                        },
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  6
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  4,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  7
+                        },
+                        {
+                            "answers":  [
+                                            "C",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  8
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  5,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  9
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  10
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  6,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  11
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  12
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  7,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  13
+                        },
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  14
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  8,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  15
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  16
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  9,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "C",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  17
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  18
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  10,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  19
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  20
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  11,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  21
+                        },
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  22
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  12,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  23
+                        },
+                        {
+                            "answers":  [
+                                            "B",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  24
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  13,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  25
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  26
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  14,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  27
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  28
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  15,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  29
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  30
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  16,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  31
+                        },
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  32
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  17,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  33
+                        },
+                        {
+                            "answers":  [
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  34
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l4-5-clustering",
+        "topic_id":  18,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "C",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  35
+                        },
+                        {
+                            "answers":  [
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  36
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  1,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  1
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  2
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  2,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  3
+                        },
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  4
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  3,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  5
+                        },
+                        {
+                            "answers":  [
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  6
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  4,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  7
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  8
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  5,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "C",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  9
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  10
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  6,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  11
+                        },
+                        {
+                            "answers":  [
+                                            "C",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  12
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  7,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  13
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  14
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  8,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  15
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  16
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  9,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  17
+                        },
+                        {
+                            "answers":  [
+                                            "B",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  18
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  10,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  19
+                        },
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  20
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  11,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  21
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  22
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  12,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  23
+                        },
+                        {
+                            "answers":  [
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  24
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  13,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  25
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  26
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  14,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  27
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  28
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  15,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  29
+                        },
+                        {
+                            "answers":  [
+                                            "C",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  30
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  16,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  31
+                        },
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  32
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l6-decision-tree",
+        "topic_id":  17,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  33
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  34
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l7-neural-network",
+        "topic_id":  1,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  1
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  2
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l7-neural-network",
+        "topic_id":  2,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  3
+                        },
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  4
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l7-neural-network",
+        "topic_id":  3,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  5
+                        },
+                        {
+                            "answers":  [
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  6
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l7-neural-network",
+        "topic_id":  4,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  7
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  8
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l7-neural-network",
+        "topic_id":  5,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "C",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  9
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  10
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l7-neural-network",
+        "topic_id":  6,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  11
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  12
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l7-neural-network",
+        "topic_id":  7,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  13
+                        },
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  14
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l7-neural-network",
+        "topic_id":  8,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  15
+                        },
+                        {
+                            "answers":  [
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  16
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l7-neural-network",
+        "topic_id":  9,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  17
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  18
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l7-neural-network",
+        "topic_id":  10,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  19
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  20
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l7-neural-network",
+        "topic_id":  11,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "C",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  21
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  22
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l7-neural-network",
+        "topic_id":  12,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  23
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  24
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l7-neural-network",
+        "topic_id":  13,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  25
+                        },
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  26
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l8-svm",
+        "topic_id":  1,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  1
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  2
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l8-svm",
+        "topic_id":  2,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  3
+                        },
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  4
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l8-svm",
+        "topic_id":  3,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  5
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  6
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l8-svm",
+        "topic_id":  4,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  7
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  8
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l8-svm",
+        "topic_id":  5,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "C",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  9
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  10
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l8-svm",
+        "topic_id":  6,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  11
+                        },
+                        {
+                            "answers":  [
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  12
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l8-svm",
+        "topic_id":  7,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  13
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  14
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l8-svm",
+        "topic_id":  8,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  15
+                        },
+                        {
+                            "answers":  [
+                                            "A"
+                                        ],
+                            "correct":  false,
+                            "id":  16
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l8-svm",
+        "topic_id":  9,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  17
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  18
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l8-svm",
+        "topic_id":  10,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  19
+                        },
+                        {
+                            "answers":  [
+                                            "A",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  20
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l8-svm",
+        "topic_id":  11,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  21
+                        },
+                        {
+                            "answers":  [
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  22
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l8-svm",
+        "topic_id":  12,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "B",
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  23
+                        },
+                        {
+                            "answers":  [
+                                            "D"
+                                        ],
+                            "correct":  false,
+                            "id":  24
+                        }
+                    ]
+    },
+    {
+        "chapter_id":  "l8-svm",
+        "topic_id":  13,
+        "answers":  [
+                        {
+                            "answers":  [
+                                            "A",
+                                            "B"
+                                        ],
+                            "correct":  false,
+                            "id":  25
+                        },
+                        {
+                            "answers":  [
+                                            "C"
+                                        ],
+                            "correct":  false,
+                            "id":  26
+                        }
+                    ]
+    }
+]
